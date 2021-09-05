@@ -3,7 +3,6 @@ import numpy as np
 from random import random
 from statistics import mean, median
 
-# something
 
 def get_br(n, rounds, perc_bet, win_perc):
     """Generates a list of the median bankroll.
